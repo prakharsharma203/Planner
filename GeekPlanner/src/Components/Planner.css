@@ -1,0 +1,39 @@
+.text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+.inputp{
+    display: flex;
+    gap: 15px;
+}
+input{
+    padding: 8px 5px;
+}
+.hrs{
+    width: 40px;
+}
+button{
+    background-color: #3B82F6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.data{
+    font-size: larger;
+    margin-top: 20px;
+
+}
+.btn{
+    padding: 8px 10px;
+    margin: 0 5px;
+    background-color: rgb(67, 228, 67);
+}
+.btn2{
+    padding: 8px 10px;
+    margin: 0 5px;
+    background-color: rgb(201, 60, 60);
+}
